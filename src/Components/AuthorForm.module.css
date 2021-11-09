@@ -1,0 +1,20 @@
+.flexer{
+    background-color: antiquewhite;
+}
+.items{
+    background-color: rgb(109, 134, 218);
+    color: cornsilk;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.single{
+    background-color: rgb(176, 218, 109);
+    color: rgb(37, 36, 31);
+}
+.editor{
+    background-color: rgb(233, 140, 140);
+}
+.inventory{
+    background-color: brown;
+}
